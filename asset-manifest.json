@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CodeRepo-HM19-Employee-Directory/static/css/main.b89ee6a2.chunk.css",
+    "main.js": "/CodeRepo-HM19-Employee-Directory/static/js/main.5c1d418b.chunk.js",
+    "main.js.map": "/CodeRepo-HM19-Employee-Directory/static/js/main.5c1d418b.chunk.js.map",
+    "runtime-main.js": "/CodeRepo-HM19-Employee-Directory/static/js/runtime-main.65e2acc6.js",
+    "runtime-main.js.map": "/CodeRepo-HM19-Employee-Directory/static/js/runtime-main.65e2acc6.js.map",
+    "static/js/2.ea352084.chunk.js": "/CodeRepo-HM19-Employee-Directory/static/js/2.ea352084.chunk.js",
+    "static/js/2.ea352084.chunk.js.map": "/CodeRepo-HM19-Employee-Directory/static/js/2.ea352084.chunk.js.map",
+    "index.html": "/CodeRepo-HM19-Employee-Directory/index.html",
+    "static/css/main.b89ee6a2.chunk.css.map": "/CodeRepo-HM19-Employee-Directory/static/css/main.b89ee6a2.chunk.css.map",
+    "static/js/2.ea352084.chunk.js.LICENSE.txt": "/CodeRepo-HM19-Employee-Directory/static/js/2.ea352084.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e2acc6.js",
+    "static/js/2.ea352084.chunk.js",
+    "static/css/main.b89ee6a2.chunk.css",
+    "static/js/main.5c1d418b.chunk.js"
+  ]
+}
