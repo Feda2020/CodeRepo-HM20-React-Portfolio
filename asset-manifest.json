@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CodeRepo-HM20-React-Portfolio/static/css/main.b89ee6a2.chunk.css",
-    "main.js": "/CodeRepo-HM20-React-Portfolio/static/js/main.5e38fce1.chunk.js",
-    "main.js.map": "/CodeRepo-HM20-React-Portfolio/static/js/main.5e38fce1.chunk.js.map",
+    "main.js": "/CodeRepo-HM20-React-Portfolio/static/js/main.150f78e8.chunk.js",
+    "main.js.map": "/CodeRepo-HM20-React-Portfolio/static/js/main.150f78e8.chunk.js.map",
     "runtime-main.js": "/CodeRepo-HM20-React-Portfolio/static/js/runtime-main.dbbb0b3b.js",
     "runtime-main.js.map": "/CodeRepo-HM20-React-Portfolio/static/js/runtime-main.dbbb0b3b.js.map",
     "static/js/2.ea352084.chunk.js": "/CodeRepo-HM20-React-Portfolio/static/js/2.ea352084.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dbbb0b3b.js",
     "static/js/2.ea352084.chunk.js",
     "static/css/main.b89ee6a2.chunk.css",
-    "static/js/main.5e38fce1.chunk.js"
+    "static/js/main.150f78e8.chunk.js"
   ]
 }
