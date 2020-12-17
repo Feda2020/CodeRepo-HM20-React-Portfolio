@@ -1,7 +1,7 @@
-import React from 'react';
-import '../../App.css';
-import StartSection from '../StartSection';
-import Footer from '../Footer';
+import React from "react";
+import "../../App.css";
+import StartSection from "../StartSection";
+import Footer from "../Footer";
 
 function Home() {
   return (
