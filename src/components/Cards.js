@@ -10,11 +10,12 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="assets/img/employeeDirectory.gif"
+              src="/assets/img/employeeDirectory.gif"
               text="This app is an employee directory. In this assignment we broke the application 
               to components then managed the components' respond to user events."
               label="Employee Directory"
               path="/portfolio"
+              href="https://feda2020.github.io/CodeRepo-HM19-Employee-Directory/"
             />
             <CardItem
               src="assets/img/budget-tracker.gif"
